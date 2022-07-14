@@ -240,7 +240,7 @@ textarea.form-control{
   border-radius: 0;
   padding-left: 22px;
   color: #2F5059;
-  background-color: transparent;
+  background-color: white;
   border:0;
   border-bottom:1px solid rgba(255,255,255,0.6);
   -webkit-box-shadow:none;
@@ -300,7 +300,7 @@ label.error{
   font-family: 'Karla', sans-serif;
   position: relative;
   display: inline-block;
-  border:0.2em solid #4A1817;
+  border:0.2em solid #000000;
   border-radius: 0;
   padding:1em 2.4em 1em;
   font-size: 0.875em;
@@ -310,7 +310,7 @@ label.error{
   letter-spacing: 0.15em;
   text-transform: uppercase;
   text-decoration: none;
-  background-color:#4A1817;
+  background-color:#3017172a;
   font-weight: 700;
   border-width: 1px;
   -webkit-transition: all .3s ease-out!important;
